@@ -1,0 +1,4 @@
+Cloud computing means using computer services through the internet instead of your personal device.It allows you to 
+access files, software, and services from anywhere using the internet.
+it can be Access from anywhere,saves cost as it is pay on use and also secure data.
+one of Example:-When you store photos in Google Drive or you are using cloud computing.
